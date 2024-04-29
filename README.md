@@ -1,5 +1,6 @@
 # React + Vite
 
-Yoooo wassup we using the amazing react here to create our amazing wesite yaaaahh!!!
+Yoooo wassup we are using  react here to create our amazing Note taking app  yaaaahh!!!
 
-# lesgooooo
+# ... well not yet finished yet but will be deployed as it gets over hehehe!!
+
